@@ -1,0 +1,141 @@
+.pricing-table-row{
+    margin-left:auto;
+    margin-right:auto;
+    width:100%;
+    border: 1px solid #dddddd; 
+    overflow:hidden;
+}
+
+/* Pricing Tables */
+
+.pricing-table {
+  border: solid 1px #dddddd;
+  margin-left: 0;
+  margin-bottom: 1.25em; }
+  .pricing-table * {
+    list-style: none;
+    line-height: 1; }
+  .pricing-table .title {
+    background-color: #dddddd;
+    padding: 0.9375em 1.25em;
+    text-align: center;
+    color: #333333;
+    font-weight: bold;
+    font-size: 1em; }
+  .pricing-table .price {
+    background-color: #eeeeee;
+    padding: 0.9375em 1.25em;
+    text-align: center;
+    color: #333333;
+    font-weight: normal;
+    font-size: 1.25em; }
+  .pricing-table .description {
+    background-color: white;
+    padding: 0.9375em;
+    text-align: center;
+    color: #777777;
+    font-size: 0.75em;
+    font-weight: normal;
+    line-height: 1.4;
+    border-bottom: dotted 1px #dddddd; }
+  .pricing-table .bullet-item {
+    background-color: white;
+    padding: 0.9375em;
+    text-align: center;
+    color: #333333;
+    font-size: 0.875em;
+    font-weight: normal;
+    border-bottom: dotted 1px #dddddd; }
+  .pricing-table .cta-button {
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 1.25em 1.25em 1.25em 1.25em; }
+
+
+
+.pricing-table .btn {
+ background: #8a8a8a;
+  background-image: -webkit-linear-gradient(top, #8a8a8a, #525252);
+  background-image: -moz-linear-gradient(top, #8a8a8a, #525252);
+  background-image: -ms-linear-gradient(top, #8a8a8a, #525252);
+  background-image: -o-linear-gradient(top, #8a8a8a, #525252);
+  background-image: linear-gradient(to bottom, #8a8a8a, #525252);
+  -webkit-border-radius: 15;
+  -moz-border-radius: 15;
+  border-radius: 15px;
+  font-family: Arial;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 3px 10px 3px 10px;
+  text-decoration: none;
+}
+
+.pricing-table .btn:hover {
+  background: #3cb0fd;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db);
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db);
+  text-decoration: none;
+}
+
+
+
+
+    
+ul.pricing-table {
+    
+    margin: 0px;
+    padding: 0px;
+    direction:ltr;
+    
+}
+ul.pricing-table .price { background: #f8f8f8;  }
+ul.pricing-table i { display: inline-block; margin-right: 5px; }
+
+.pricing-table li {margin: 0px}
+
+.recommended { box-shadow: 0 0 10px rgba(0,0,0,0.25); position: relative; z-index: 2; }
+
+@media only screen and (min-width: 768px){
+  .left-side { border-right: none; }
+  .right-side { border-left: none; }
+}  
+
+
+/* start my custom */
+.pricing-table-column{
+    	float:left;
+	position: relative;
+	padding-left: 0px;
+	padding-right: 0px;
+	width:25%;
+}            
+
+
+
+.rowspan{
+	min-width:30px;
+	
+}
+
+.deleteRow{
+	position:absolute;
+	top:5px;
+	left:30px;
+}
+
+#ptd-container{
+	clear:both;
+
+}
+
+@media screen and (max-width: 500px) {
+		.ptd-column{
+			width:170px;
+			margin-bottom:10px;
+			margin-top:20px;
+		}
+	}
+
