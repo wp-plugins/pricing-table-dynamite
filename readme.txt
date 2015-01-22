@@ -8,11 +8,11 @@ Stable tag: 1.0
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Easily create a pricing table for your Wordpress site in minutes.  Pricing tables have never been so easy to place on your site.
+Easily create a responsive pricing table for your Wordpress site in minutes.  Pricing tables have never been so easy to place on your site.
 
 == Description ==
 
-Easily create a pricing table for your Wordpress site in minutes.  Pricing tables have never been so easy to place on your site.
+Easily create a responsive pricing table for your Wordpress site in minutes.  Pricing tables have never been so easy to place on your site.
 
 * Sell as many products as you want with Unlimited Pricing Tables
 * No Coding means anyone can create a pricing table
