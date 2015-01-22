@@ -88,7 +88,7 @@ No.  The plugin does all the heavy lifting.  You just edit your pricing table on
 
 == Screenshots ==
 
-
+1.
 
 == Changelog ==
 
