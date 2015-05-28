@@ -81,9 +81,16 @@ The core design is based on the Foundation Framework responsive pricing table.  
 
 == Frequently Asked Questions ==
 
-= Do I have to know how to program or design? =
+= Do I have to know how to program or design to use the pricing tables? =
 
 No.  The plugin does all the heavy lifting.  You just edit your pricing table on the screen.
+
+= How many pricing tables can I create? =
+
+You can create an unlimited amount of pricing tables.
+
+= Can I change the colors of the pricing tables? =
+The pro version of the plugin give you the ability to change the colors of you pricing tables.
 
 
 == Screenshots ==
